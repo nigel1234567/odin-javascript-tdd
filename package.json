@@ -1,0 +1,23 @@
+{
+  "name": "odin-javascript-tdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nigel1234567/odin-javascript-tdd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nigel1234567/odin-javascript-tdd/issues"
+  },
+  "homepage": "https://github.com/nigel1234567/odin-javascript-tdd#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
